@@ -1,2 +1,2 @@
 # certificados
-Repositório destinado a armazenamento de certificados
+Repo para armazenamento de certificados
